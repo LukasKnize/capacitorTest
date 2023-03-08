@@ -1,0 +1,6 @@
+{
+	"appId": "com.example.app",
+	"appName": "kawaiidit",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
